@@ -1,0 +1,28 @@
+1630862355896	geckodriver	INFO	Listening on 127.0.0.1:54742
+1630862356423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kiruh\\AppData\\Local\\Temp\\rust_mozprofiledgYOtn"
+1630862395014	geckodriver	INFO	Listening on 127.0.0.1:61994
+1630862395573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kiruh\\AppData\\Local\\Temp\\rust_mozprofilePQIzKI"
+1630862395833	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kiruh\\AppData\\Local\\Temp\\rust_mozprofilePQIzKI\\search.json.mozlz4", (void 0)))
+1630862397859	Marionette	INFO	Listening on port 64156
+1630862398215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-4DBM, line 228: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-4DBM, line 228: unreachable code after return statement
+1630862402354	Marionette	INFO	Stopped listening on port 64156
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630862570765	geckodriver	INFO	Listening on 127.0.0.1:51630
+1630862571297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kiruh\\AppData\\Local\\Temp\\rust_mozprofilebzqQA4"
+1630862571553	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kiruh\\AppData\\Local\\Temp\\rust_mozprofilebzqQA4\\search.json.mozlz4", (void 0)))
+1630862573432	Marionette	INFO	Listening on port 64070
+1630862573458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-4DBM, line 228: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-4DBM, line 228: unreachable code after return statement
+1630862577656	Marionette	INFO	Stopped listening on port 64070
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
